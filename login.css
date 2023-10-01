@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    background-color: blue;
+    background-image: url(./technology-background-1632715.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#firstdiv{
+    /* height: 50vh; */
+    width: 15vw;
+    background-color: whitesmoke;
+    /* margin: 300px; */
+    margin-left: 600px;
+    margin-top: 300px;
+    /* background-image: url(./th.jpeg); */
+    
+}
+#login{
+text-align: center;
+color: red;
+font-size: 30px;
+}
+.UserName{
+    /* font-size: 20px; */
+
+}
+#label1{
+font-size: 20px;
+}
+.PassWord{
+
+}
+#label2{
+    font-size: 20px
+}
+#submit{
+    margin-top: 10px;
+    height: 30px;
+    width: 100px;
+}
